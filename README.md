@@ -21,3 +21,40 @@ Symptoms: A list of symptoms associated with the disease.
  <img width="677" alt="data" src="https://github.com/Suprita-Raha/Disease_Data/assets/141902194/5f2dc011-39a3-49fc-b1b4-dfc04d97432b">
 
 
+
+
+Analysis:
+
+Data Exploration: Begin by exploring the dataset to understand its structure, size, and basic statistics. This includes checking for missing data, duplicated records, and data types.
+Visualization: Visualize the results of the analysis using heatmaps or other suitable visualization methods. This will help in identifying patterns and clusters of diseases.
+
+
+
+
+
+
+
+Findings and Inferences:
+
+Disease-Symptom Relationships: The analysis reveals the relationships between diseases and their associated symptoms. It identifies diseases with similar symptom profiles and those that are distinct.
+
+Cluster Analysis: Clustering results show which diseases naturally group together based on symptom similarity. This can provide insights into disease categorization and potential treatment strategies.
+
+
+
+
+Managerial Insights:
+
+Disease Classification: Healthcare professionals can use the clustering results to refine disease classification and diagnosis. This can lead to more accurate and efficient healthcare delivery.
+
+Research Focus: Researchers can identify diseases that share common symptoms, suggesting potential areas for further investigation and research.
+
+Resource Allocation: Healthcare policymakers can allocate resources more effectively by considering the clusters of diseases with similar symptom profiles. This can aid in resource planning and allocation for healthcare facilities.
+
+Treatment Strategies: Understanding the relationships between diseases and symptoms can inform treatment strategies and help develop targeted interventions for specific disease groups.
+
+Public Health: The insights can be used for public health campaigns and disease prevention efforts, focusing on shared symptoms among diseases.
+
+
+
+
