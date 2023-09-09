@@ -17,7 +17,7 @@ Symptoms: A list of symptoms associated with the disease.
 
  
 
- ![web](https://github.com/Suprita-Raha/Disease_Data/assets/141902194/00f9479d-a689-4227-951c-59de6d8b62a3)
+ ![web](https://github.com/Suprita-Raha/Disease_Data/assets/141902194/0a480378-d798-4079-865a-f61b8d581abd)
 
 
 
