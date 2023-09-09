@@ -10,7 +10,9 @@ Managerial Insights: Derive insights that can be valuable for healthcare profess
 General Description of the Data:
 
 The dataset contains information about various diseases and their associated symptoms. Each record in the dataset represents a disease and lists the symptoms associated with that disease. The dataset includes the following columns:
+
 Disease: The name of the disease.
+
 Symptoms: A list of symptoms associated with the disease.
 
  
