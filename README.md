@@ -26,6 +26,8 @@ Symptoms: A list of symptoms associated with the disease.
 Analysis:
 
 Data Exploration: Begin by exploring the dataset to understand its structure, size, and basic statistics. This includes checking for missing data, duplicated records, and data types.
+
+
 Visualization: Visualize the results of the analysis using heatmaps or other suitable visualization methods. This will help in identifying patterns and clusters of diseases.
 
 
