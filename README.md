@@ -45,7 +45,6 @@ Visualization: Visualize the results of the analysis using heatmaps or other sui
 
 Disease-Symptom Relationships: The analysis reveals the relationships between diseases and their associated symptoms. It identifies diseases with similar symptom profiles and those that are distinct.
 
-Cluster Analysis: Clustering results show which diseases naturally group together based on symptom similarity. This can provide insights into disease categorization and potential treatment strategies.
 
 
 
