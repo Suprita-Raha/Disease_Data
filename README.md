@@ -1,13 +1,13 @@
 # Disease_Data
 
-Project Objectives:
+# Project Objectives:
 
 Disease-Symptom Analysis: Explore a dataset containing information about diseases and their associated symptoms to understand patterns and relationships between diseases.
 Similarity Analysis: Determine which diseases share common symptoms and identify clusters of diseases based on symptom similarity.
 Visualization: Create visualizations, such as bar graphs, to present the results of the analysis for easy interpretation.
 Managerial Insights: Derive insights that can be valuable for healthcare professionals, researchers, and policymakers in understanding disease-symptom relationships and making informed decisions.
 
-General Description of the Data:
+# General Description of the Data:
 
 The dataset contains information about various diseases and their associated symptoms. Each record in the dataset represents a disease and lists the symptoms associated with that disease. The dataset includes the following columns:
 
@@ -23,7 +23,7 @@ Symptoms: A list of symptoms associated with the disease.
 
 
 
-Analysis:
+# Analysis:
 
 Data Exploration: Begin by exploring the dataset to understand its structure, size, and basic statistics. This includes checking for missing data, duplicated records, and data types.
 
@@ -41,7 +41,7 @@ Visualization: Visualize the results of the analysis using heatmaps or other sui
 
 
 
-Findings and Inferences:
+# Findings and Inferences:
 
 Disease-Symptom Relationships: The analysis reveals the relationships between diseases and their associated symptoms. It identifies diseases with similar symptom profiles and those that are distinct.
 
@@ -50,7 +50,7 @@ Cluster Analysis: Clustering results show which diseases naturally group togethe
 
 
 
-Managerial Insights:
+# Managerial Insights:
 
 Disease Classification: Healthcare professionals can use the clustering results to refine disease classification and diagnosis. This can lead to more accurate and efficient healthcare delivery.
 
