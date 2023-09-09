@@ -29,6 +29,11 @@ Data Exploration: Begin by exploring the dataset to understand its structure, si
 Visualization: Visualize the results of the analysis using heatmaps or other suitable visualization methods. This will help in identifying patterns and clusters of diseases.
 
 
+![download (1)](https://github.com/Suprita-Raha/Disease_Data/assets/141902194/09a5c58a-63dc-4008-b9e5-56d5ad45a43d)
+
+
+
+![download](https://github.com/Suprita-Raha/Disease_Data/assets/141902194/9bf8e4b0-3eaf-4f8a-9e79-7da705f3630d)
 
 
 
