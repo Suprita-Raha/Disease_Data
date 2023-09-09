@@ -15,10 +15,6 @@ Disease: The name of the disease.
 
 Symptoms: A list of symptoms associated with the disease.
 
- 
-
- ![web](https://github.com/Suprita-Raha/Disease_Data/assets/141902194/0a480378-d798-4079-865a-f61b8d581abd)
-
 
 
 
